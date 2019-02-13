@@ -3,3 +3,5 @@
 * Mercury
 * Venus
 * Earth
+* Mars
+* Jupiter
